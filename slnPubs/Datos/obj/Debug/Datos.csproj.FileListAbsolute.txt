@@ -1,0 +1,7 @@
+C:\Users\Celina\source\repos\slnPubs\Datos\bin\Debug\Datos.dll.config
+C:\Users\Celina\source\repos\slnPubs\Datos\bin\Debug\Datos.dll
+C:\Users\Celina\source\repos\slnPubs\Datos\bin\Debug\Datos.pdb
+C:\Users\Celina\source\repos\slnPubs\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Celina\source\repos\slnPubs\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Celina\source\repos\slnPubs\Datos\obj\Debug\Datos.dll
+C:\Users\Celina\source\repos\slnPubs\Datos\obj\Debug\Datos.pdb
