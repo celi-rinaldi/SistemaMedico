@@ -1,0 +1,16 @@
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\bin\Debug\WindowsMedicos.exe.config
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\bin\Debug\WindowsMedicos.exe
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\bin\Debug\WindowsMedicos.pdb
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\bin\Debug\Datos.dll
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\bin\Debug\Entidades.dll
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\bin\Debug\Datos.pdb
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\bin\Debug\Datos.dll.config
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\bin\Debug\Entidades.pdb
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\obj\Debug\WindowsMedicos.csproj.AssemblyReference.cache
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\obj\Debug\WindowsMedicos.Form1.resources
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\obj\Debug\WindowsMedicos.Properties.Resources.resources
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\obj\Debug\WindowsMedicos.csproj.GenerateResource.cache
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\obj\Debug\WindowsMedicos.csproj.CoreCompileInputs.cache
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\obj\Debug\WindowsMedicos.csproj.CopyComplete
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\obj\Debug\WindowsMedicos.exe
+C:\Users\Celina\source\repos\SistemaMedico\WindowsMedicos\obj\Debug\WindowsMedicos.pdb

@@ -1,0 +1,6 @@
+C:\Users\Celina\source\repos\SistemaMedico\Entidades\bin\Debug\Entidades.dll
+C:\Users\Celina\source\repos\SistemaMedico\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Celina\source\repos\SistemaMedico\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Celina\source\repos\SistemaMedico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Celina\source\repos\SistemaMedico\Entidades\obj\Debug\Entidades.dll
+C:\Users\Celina\source\repos\SistemaMedico\Entidades\obj\Debug\Entidades.pdb
